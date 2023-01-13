@@ -1,7 +1,7 @@
 
 <div align="center" >
 
-# CSE2025 Data Structures Project 2
+# Graph Implementation - Dijkstra's Algorithm
 •This repo contains the source code for second project of CSE2025S'21.
   
 <img src="/icons/man.png" width="150">
